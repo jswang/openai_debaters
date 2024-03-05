@@ -1,0 +1,5 @@
+openai
+pydub
+os
+subprocess
+time
