@@ -1,6 +1,7 @@
 # OpenAI Debaters
 
-![SF City Hall](docs/city_hall.jpeg)
+
+[![SF City Hall](docs/city_hall.jpeg)](https://youtu.be/I2j70VwPGug "Measure A")
 
 Are you trying to be an informed voter? Do you hate listening to talking heads attack each other and never talk about the actual issues? Do you just want to know what the measures are and then hear intelligent debate around them? 
 
@@ -8,6 +9,8 @@ Well this repo is for you! We feed the [official city election guide](https://vo
 
 The result? High quality, informed debate on all 7 measures up for election this year.
 Each debater will open and close their debate, and the number of rounds in between is configurable.  Worried about me trying to sway you to either side? This repo open sources the instructions given to each agent, so you can examine exactly what they are asked to do. 
+
+You can click the icon on this README.md to get an audio clip of the results on Measure A!
 
 Enjoy!
 
