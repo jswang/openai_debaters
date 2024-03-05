@@ -12,13 +12,15 @@ Each debater will open and close their debate, and the number of rounds in betwe
 Enjoy!
 
 ## Results
-|Measure A: Affordable Housing Bonds | [text](docs/debate_a.txt) |
-|Measure B: Police Office Staffing Levels | [text](docs/debate_b.txt)|
-|Measure C: Real Estate Transfer Tax Exemption | [text](docs/debate_c.txt)|
-|Measure D: Changes to Local Ethics Laws | [text](docs/debate_d.txt)|
-|Measure E: Police Department Policies and Procedures | [text](docs/debate_e.txt)|
-Measure F: Illegal Substance Dependence Screening and Treatment for Recipients of City Public Assistance | [text](docs/debate_f.txt)|
-|Measure G: Offering Algebra 1 to Eighth Graders | [text](docs/debate_g.txt)| 
+| Measure      | Text | Audio |
+| ----------- | ----------- | ----------- |
+|Measure A: Affordable Housing Bonds | [text](docs/debate_a.txt) | [audio](docs/issue_a.mp3) |
+|Measure B: Police Office Staffing Levels | [text](docs/debate_b.txt)| [audio](docs/issue_b.mp3) |
+|Measure C: Real Estate Transfer Tax Exemption | [text](docs/debate_c.txt)| [audio](docs/issue_c.mp3) |
+|Measure D: Changes to Local Ethics Laws | [text](docs/debate_d.txt)| [audio](docs/issue_d.mp3) |
+|Measure E: Police Department Policies and Procedures | [text](docs/debate_e.txt)| [audio](docs/issue_e.mp3) |
+Measure F: Illegal Substance Dependence Screening and Treatment for Recipients of City Public Assistance | [text](docs/debate_f.txt)| [audio](docs/issue_f.mp3) |
+|Measure G: Offering Algebra 1 to Eighth Graders | [text](docs/debate_g.txt)|  [audio](docs/issue_g.mp3) |
 
 
 ## Installation
