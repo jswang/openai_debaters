@@ -7,12 +7,13 @@ Are you trying to be an informed voter? Do you hate listening to talking heads a
 
 Well this repo is for you! We feed the [official city election guide](https://voterguide.sfelections.org/local-ballot-measures) from San Francisco for the upcoming 2024 city ballot measures to the [OpenAI Assistants API](https://platform.openai.com/docs/api-reference/assistants), then create an informed debate on each measure. We then turn the text into audio using [OpenAI's TTS model](https://platform.openai.com/docs/models/tts). 
 
-The result? High quality, informed debate on all 7 measures up for election this year.
+The result? High quality, informed debate on all measures up for election this year.
 Each debater will open and close their debate, and the number of rounds in between is configurable.  Worried about me trying to sway you to either side? This repo open sources the instructions given to each agent, so you can examine exactly what they are asked to do. 
 
-You can click the icon on this README.md to get an audio clip of the results on Measure A!
+You can click the image above of city hall to go directly to an audio clip of the results on Measure A!
 
 Enjoy!
+
 
 ## Results
 | Measure      | Text | Audio |
