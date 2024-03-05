@@ -14,7 +14,11 @@ Enjoy!
 ## Results
 | Measure     | Audio | Text |
 | ----------- | ----------- |----------- |
-|Measure A: Affordable Housing Bonds | [Measure A](docs/issue_a.mp4) | [here](docs/debate_a.txt) |
+|Measure A: Affordable Housing Bonds | [Measure A]([docs/issue_a.mp4](https://github.com/jswang/openai_debators/assets/2576280/a8d1e65e-b436-4035-a571-3be5edf6f552)) | [here](docs/debate_a.txt) |
+
+
+
+
 
 
 |Measure B: Police Office Staffing Levels | | |
