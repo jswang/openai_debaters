@@ -12,17 +12,21 @@ Each debator will open and close their debate, and the number of rounds in betwe
 Enjoy!
 
 ## Results
+| Measure     | Audio | Text |
+| ----------- | ----------- |----------- |
+|Measure A: Affordable Housing Bonds | [Measure A](docs/issue_a.mp4) | [here](docs/debate_a.txt) |
 
+
+|Measure B: Police Office Staffing Levels | | |
+|Measure C: Real Estate Transfer Tax Exemption | | |
+|Measure D: Changes to Local Ethics Laws | | |
+|Measure E: Police Department Policies and Procedures | | |
+Measure F: Illegal Substance Dependence Screening and Treatment for Recipients of City |Public Assistance | | |
+|Measure G: Offering Algebra 1 to Eighth Graders | | |
 As an example, we try out [Measure A: Housing Bonds](https://voterguide.sfelections.org/local-ballot-measures/measure-a) with the 
 
-### Audio
-Each narrator introduces themselves, then gives their remarks
-<audio controls>
-    <source src="docs/issue_a.mp3" type="audio/mpeg">
-</audio>
-
 ### Text
-Full text [here](docs/debate_a.txt)
+Full text 
 <br>
 Snippet:
 > Moderator: Please concisely summarize Measure a and your stance on it
